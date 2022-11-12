@@ -1,0 +1,15 @@
+msgctxt "seo"
+msgid "heading"
+msgstr "Heading English {name}"
+
+
+msgctxt "seo"
+msgid "page-title"
+msgstr "{pagename} Home Page , count is {count} sud iashid asjo aasojh oisdio aisod asdo aod aso"
+
+
+
+
+msgctxt "seo"
+msgid "page-title-2"
+msgstr "{pagename} Home Page , count is {count} sud iashid asjo aasojh oisdio aisod asdo aod aso"

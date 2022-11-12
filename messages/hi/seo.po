@@ -1,0 +1,9 @@
+msgctxt "seo"
+msgid "heading"
+msgstr "Heading hindi {name}"
+
+
+msgctxt "seo"
+msgid "page-title"
+msgstr "{pagename}  hindi* IUHU(Y&*(Home Page , count is {count}"
+
