@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a595ece53e0d434f1e66ad1419fa1f64",
+    "content-hash": "755ced112ad23abc389818a7954b2312",
     "packages": [
         {
             "name": "bower-asset/bootstrap",
@@ -50,16 +50,16 @@
         },
         {
             "name": "bower-asset/jquery",
-            "version": "3.6.1",
+            "version": "3.6.3",
             "source": {
                 "type": "git",
-                "url": "https://github.com/jquery/jquery-dist.git",
-                "reference": "3711efedf0ca2e998cd0417324f717f2e0b828ec"
+                "url": "git@github.com:jquery/jquery-dist.git",
+                "reference": "da0f228131a578aea168b799fe4d7fe01764c98b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jquery/jquery-dist/zipball/3711efedf0ca2e998cd0417324f717f2e0b828ec",
-                "reference": "3711efedf0ca2e998cd0417324f717f2e0b828ec"
+                "url": "https://api.github.com/repos/jquery/jquery-dist/zipball/da0f228131a578aea168b799fe4d7fe01764c98b",
+                "reference": "da0f228131a578aea168b799fe4d7fe01764c98b"
             },
             "type": "bower-asset",
             "license": [
@@ -71,12 +71,12 @@
             "version": "v1.3.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/mathiasbynens/punycode.js.git",
+                "url": "git@github.com:bestiejs/punycode.js.git",
                 "reference": "38c8d3131a82567bfef18da09f7f4db68c84f8a3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mathiasbynens/punycode.js/zipball/38c8d3131a82567bfef18da09f7f4db68c84f8a3",
+                "url": "https://api.github.com/repos/bestiejs/punycode.js/zipball/38c8d3131a82567bfef18da09f7f4db68c84f8a3",
                 "reference": "38c8d3131a82567bfef18da09f7f4db68c84f8a3"
             },
             "type": "bower-asset"
@@ -86,7 +86,7 @@
             "version": "2.0.8",
             "source": {
                 "type": "git",
-                "url": "https://github.com/yiisoft/jquery-pjax.git",
+                "url": "git@github.com:yiisoft/jquery-pjax.git",
                 "reference": "a9298d57da63d14a950f1b94366a864bc62264fb"
             },
             "dist": {
@@ -428,50 +428,6 @@
                 "source": "https://github.com/johnitvn/yii2-ajaxcrud"
             },
             "time": "2016-03-21T10:56:25+00:00"
-        },
-        {
-            "name": "justinvoelker/yii2-tagging",
-            "version": "1.0.2",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/justinvoelker/yii2-tagging.git",
-                "reference": "1e8a93e3a1e34e386bd0c48631fd06d54bb9e0c2"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/justinvoelker/yii2-tagging/zipball/1e8a93e3a1e34e386bd0c48631fd06d54bb9e0c2",
-                "reference": "1e8a93e3a1e34e386bd0c48631fd06d54bb9e0c2",
-                "shasum": ""
-            },
-            "require": {
-                "yiisoft/yii2": "*"
-            },
-            "type": "yii2-extension",
-            "autoload": {
-                "psr-4": {
-                    "justinvoelker\\tagging\\": ""
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-3-Clause"
-            ],
-            "authors": [
-                {
-                    "name": "Justin Voelker",
-                    "email": "justin@justinvoelker.com"
-                }
-            ],
-            "description": "Turn delimited data into tags",
-            "keywords": [
-                "tag",
-                "yii2"
-            ],
-            "support": {
-                "issues": "https://github.com/justinvoelker/yii2-tagging/issues",
-                "source": "https://github.com/justinvoelker/yii2-tagging/tree/master"
-            },
-            "time": "2015-08-03T16:26:25+00:00"
         },
         {
             "name": "kartik-v/bootstrap-popover-x",
@@ -2039,16 +1995,16 @@
         },
         {
             "name": "yiisoft/yii2",
-            "version": "2.0.46",
+            "version": "2.0.47",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-framework.git",
-                "reference": "d73259c3bc886648a6875109f9f09cddeff03708"
+                "reference": "8ecf57895d9c4b29cf9658ffe57af5f3d0e25254"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/d73259c3bc886648a6875109f9f09cddeff03708",
-                "reference": "d73259c3bc886648a6875109f9f09cddeff03708",
+                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/8ecf57895d9c4b29cf9658ffe57af5f3d0e25254",
+                "reference": "8ecf57895d9c4b29cf9658ffe57af5f3d0e25254",
                 "shasum": ""
             },
             "require": {
@@ -2157,7 +2113,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-08-18T22:18:45+00:00"
+            "time": "2022-11-18T16:21:58+00:00"
         },
         {
             "name": "yiisoft/yii2-bootstrap",
